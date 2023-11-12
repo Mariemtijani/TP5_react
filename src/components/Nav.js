@@ -19,9 +19,6 @@ export default function Nav() {
                         <li claclassNamess="nav-item" style={{marginLeft:'40px'}}>
                             <Link className="nav-link" to="/api">Random images</Link>
                         </li>
-                        <li claclassNamess="nav-item" style={{marginLeft:'40px'}}>
-                            <Link className="nav-link" to="/error">Error</Link>
-                        </li>
                     </ul>
         </nav>
     </div>
